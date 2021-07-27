@@ -41,7 +41,7 @@ El contenido resumido del curso es el siguiente.
 | 27  | Matrices simétricas | 2 |
 | 28  | Diagonalización ortogonal | 2 |
 | 29  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
-| 30  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
+| 30  | Aplicaciones: formas cuadráticas y secciones cónicas (continuación) | 2 |
 | 31  | La forma canónica de Jordan | 2 |
 | 32  | **Parcial 4 (25%): sesiones 22 a 31** | 2 |
 
