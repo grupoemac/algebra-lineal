@@ -45,4 +45,6 @@ El contenido resumido del curso es el siguiente.
 | 31  | La forma canónica de Jordan | 2 |
 | 32  | **Parcial 4 (25%): sesiones 22 a 31** | 2 |
 
+## Presentaciones
 
+### Semana 1
