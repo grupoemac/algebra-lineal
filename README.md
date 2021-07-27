@@ -47,6 +47,6 @@ El contenido resumido del curso es el siguiente.
 
 ## Presentaciones
 
-### Semana 1: Definiciones y propiedades básicas
+### Semana 1: definiciones y propiedades básicas
 
 ddd
