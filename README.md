@@ -10,7 +10,7 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 ## Clase a clase
 El contenido resumido del curso es el siguiente.
 
-| Sesión | Tema | Horas |
+| Semana | Tema | Horas |
 | :---:         | :---       | :---:          |
 | 1   | Presentación del curso – Definiciones y propiedades básicas | 2 |
 | 2   | Subespacio vectorial | 2 |
