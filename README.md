@@ -12,13 +12,13 @@ xxx
 | Sesión | Tema | Horas |
 | :---:         | :---       | :---:          |
 | 1   | Presentación del curso – Definiciones y propiedades básicas | 2 |
-| 2   |  | 2 |
-| 3   |  | 2 |
-| 4   |  | 2 |
-| 5   |  | 2 |
-| 6   |  | 2 |
-| 7   |  | 2 |
-| 8   |  | 2 |
+| 2   | Subespacio vectorial | 2 |
+| 3   | Combinación lineal y espacio generado | 2 |
+| 4   | Independencia lineal | 2 |
+| 5   | Bases y dimensión | 2 |
+| 6   | Espacios fundamentales de una matriz | 2 |
+| 7   | **Parcial 1 (25%): sesiones 1 a 5** | 2 |
+| 8   | Espacios fundamentales de una matriz | 2 |
 | 9   |  | 2 |
 | 10  |  | 2 |
 | 11  |  | 2 |
