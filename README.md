@@ -2,7 +2,7 @@
 2021, Instituto de Matemáticas, Universidad de Antioquia
 
 ## Introducción
-Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de Matemáticas a la Facultad de Ingeniería. El curso cuenta con página moodle (para los estudiantes de la Universidad de Antioquia) en la plataforma [ingeni@](http://www.ingeniaudea.co/login/index.php).
+Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de Matemáticas a la Facultad de Ingeniería. Para los estudiantes de la Universidad de Antioquia, el curso cuenta con página moodle en la plataforma [ingeni@](http://www.ingeniaudea.co/login/index.php).
 
 ### Descripción del curso
 > *El álgebra lineal es el estudio de los espacios vectoriales, así como de las transformaciones lineales definidas entre éstos y es fundamental en casi todas las áreas de las matemáticas. El álgebra lineal se emplea para modelar una gran variedad de fenómenos naturales presentes en la mayoría de las ciencias y en diversos campos de la ingeniería. Este curso proporciona a los estudiantes los conceptos y las técnicas básicas para la modelación y resolución de problemas, tanto en matemáticas como en otras disciplinas, que servirán de fundamento para futuros cursos.*
@@ -30,18 +30,18 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 | 17  | El núcleo y la imagen | 2 |
 | 18  | Representación matricial de una transformación lineal | 2 |
 | 19  | Representación matricial de una transformación lineal (continuación) | 2 |
-| 20  |  | 2 |
-| 21  |  | 2 |
-| 21  |  | 2 |
-| 23  |  | 2 |
-| 24  |  | 2 |
-| 25  |  | 2 |
-| 26  |  | 2 |
-| 27  |  | 2 |
-| 28  |  | 2 |
-| 29  |  | 2 |
-| 30  |  | 2 |
-| 31  |  | 2 |
-| 32  |  | 2 |
+| 20  | Isomorfismos | 2 |
+| 21  | Isometrías | 2 |
+| 21  | Valores y vectores propios | 2 |
+| 23  | **Parcial 3 (25%): sesiones 15 a 21** | 2 |
+| 24  | Valores y vectores propios | 2 |
+| 25  | Semejanza y diagonalización | 2 |
+| 26  | Aplicaciones: crecimiento poblacional y cadenas de Markov | 2 |
+| 27  | Matrices simétricas | 2 |
+| 28  | Diagonalización ortogonal | 2 |
+| 29  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
+| 30  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
+| 31  | La forma canónica de Jordan | 2 |
+| 32  | **Parcial 4 (25%): sesiones 22 a 31** | 2 |
 
 
