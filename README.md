@@ -11,6 +11,37 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 xxx
 | Sesión | Tema | Horas |
 | :---         | :---       | :---          |
-| git status   | git status | git status    |
-| git diff     | git diff   | git diff      |
+| 1  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+| 2  |  |  |
+
 
