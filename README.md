@@ -26,10 +26,10 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 | 13  | Aproximación por mínimos cuadrados | 2 |
 | 14  | Espacios con producto interno y proyecciones | 2 |
 | 15  | Definición y ejemplos de transformaciones lineales | 2 |
-| 16  | **Parcial 2 (25%): sesiones 6 a 14 ** | 2 |
-| 17  |  | 2 |
-| 18  |  | 2 |
-| 19  |  | 2 |
+| 16  | **Parcial 2 (25%): sesiones 6 a 14** | 2 |
+| 17  | El núcleo y la imagen | 2 |
+| 18  | Representación matricial de una transformación lineal | 2 |
+| 19  | Representación matricial de una transformación lineal (continuación) | 2 |
 | 20  |  | 2 |
 | 21  |  | 2 |
 | 21  |  | 2 |
