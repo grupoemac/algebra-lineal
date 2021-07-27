@@ -49,4 +49,4 @@ El contenido resumido del curso es el siguiente.
 
 ### Semana 1: definiciones y propiedades básicas
 
-Esta primera semana inicia con la presentación del curso y un repaso al tema de vectores en R^n visto en el curso de geometría vectorial. 
+Esta primera semana inicia con la presentación del curso y un repaso al tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">  visto en el curso de geometría vectorial. 
