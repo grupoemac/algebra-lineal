@@ -49,4 +49,4 @@ El contenido resumido del curso es el siguiente.
 
 ### Semana 1: definiciones y propiedades básicas
 
-La primera semana inicia con la presentación del curso y un repaso al tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">, visto en el curso de geometría vectorial. Los ejemplos concretos de vectores en el plano y el espacio, anteceden a la noción abstracta de espacio vectorial y subespacio presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran los conceptos.
+La primera semana inicia con la presentación del curso y un repaso al tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">, visto en el curso de geometría vectorial. Los ejemplos concretos de vectores en el plano y el espacio, anteceden a la noción abstracta de espacio vectorial y subespacio, presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran los conceptos.
