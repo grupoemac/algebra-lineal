@@ -8,7 +8,7 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 > *El álgebra lineal es el estudio de los espacios vectoriales, así como de las transformaciones lineales definidas entre éstos y es fundamental en casi todas las áreas de las matemáticas. El álgebra lineal se emplea para modelar una gran variedad de fenómenos naturales presentes en la mayoría de las ciencias y en diversos campos de la ingeniería. Este curso proporciona a los estudiantes los conceptos y las técnicas básicas para la modelación y resolución de problemas, tanto en matemáticas como en otras disciplinas, que servirán de fundamento para futuros cursos.*
 
 ## Clase a clase
-xxx
+
 | Sesión | Tema | Horas |
 | :---:         | :---       | :---:          |
 | 1   | Presentación del curso – Definiciones y propiedades básicas | 2 |
@@ -19,14 +19,14 @@ xxx
 | 6   | Espacios fundamentales de una matriz | 2 |
 | 7   | **Parcial 1 (25%): sesiones 1 a 5** | 2 |
 | 8   | Espacios fundamentales de una matriz | 2 |
-| 9   |  | 2 |
-| 10  |  | 2 |
-| 11  |  | 2 |
-| 12  |  | 2 |
-| 13  |  | 2 |
-| 14  |  | 2 |
-| 15  |  | 2 |
-| 16  |  | 2 |
+| 9   | Cambio de base | 2 |
+| 10  | Cambio de base (continuación) | 2 |
+| 11  | Bases ortonormales y proyecciones en R^n | 2 |
+| 12  | Bases ortonormales y proyecciones en R^n (continuación) | 2 |
+| 13  | Aproximación por mínimos cuadrados | 2 |
+| 14  | Espacios con producto interno y proyecciones | 2 |
+| 15  | Definición y ejemplos de transformaciones lineales | 2 |
+| 16  | **Parcial 2 (25%): sesiones 6 a 14 ** | 2 |
 | 17  |  | 2 |
 | 18  |  | 2 |
 | 19  |  | 2 |
