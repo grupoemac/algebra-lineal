@@ -7,5 +7,10 @@ Este es el repositorio del curso de álgebra lineal ofrecido por el Instituto de
 ### Descripción del curso
 > *El álgebra lineal es el estudio de los espacios vectoriales, así como de las transformaciones lineales definidas entre éstos y es fundamental en casi todas las áreas de las matemáticas. El álgebra lineal se emplea para modelar una gran variedad de fenómenos naturales presentes en la mayoría de las ciencias y en diversos campos de la ingeniería. Este curso proporciona a los estudiantes los conceptos y las técnicas básicas para la modelación y resolución de problemas, tanto en matemáticas como en otras disciplinas, que servirán de fundamento para futuros cursos.*
 
-## Plan de estudios
+## Clase a clase
 xxx
+| Alineado a la izquierda | Alineado en el centro | Alineado a la derecha |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
