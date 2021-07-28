@@ -57,7 +57,7 @@ La primera semana inicia con la presentación del curso y un repaso del tema de 
 
 [semana2.pdf](../main/presentaciones/semana02/semana2.pdf)
 
-La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores llamados conjuntos generadores. El objetivo es obtener conjuntos generadores con la menor cantidad de vectores posibles. Esto conduce al concepto de independencia lineal.
+La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos, que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores llamados conjuntos generadores. El objetivo es obtener conjuntos generadores con la menor cantidad de vectores posibles. Esto conduce al concepto de independencia lineal.
 
 ### Semana 3: bases y dimensión
 
