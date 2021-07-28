@@ -55,8 +55,8 @@ La primera semana inicia con la presentación del curso y un repaso del tema de 
 
 ### Semana 2: Combinación lineal, espacio generado e independencia lineal
 
-[semana2.pdf](../main/presentaciones/semana01/semana1.pdf)
+[semana2.pdf](../main/presentaciones/semana02/semana2.pdf)
 
-La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render
+La primera semana inicia con la presentación del curso y un repaso del tema de vectores en 
 
 
