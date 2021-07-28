@@ -59,4 +59,9 @@ La primera semana inicia con la presentación del curso y un repaso del tema de 
 
 La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores.
 
+### Semana 3: bases y dimensión
+
+[semana3.pdf](../main/presentaciones/semana03/semana3.pdf)
+
+La solución
 
