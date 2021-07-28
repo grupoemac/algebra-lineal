@@ -53,10 +53,10 @@ El contenido resumido del curso es el siguiente.
 
 La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> visto en cursos previos. Los ejemplos de vectores en el plano y el espacio, anteceden a las nociones abstracta de espacio vectorial y subespacio. Estas nociones son presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran tales conceptos.
 
-### Semana 2: Combinación lineal, espacio generado e independencia lineal
+### Semana 2: combinación lineal, espacio generado e independencia lineal
 
 [semana2.pdf](../main/presentaciones/semana02/semana2.pdf)
 
-La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para construir subespacios vectoriales a partir de subconjuntos finitos de vectores.
+La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores.
 
 
