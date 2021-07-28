@@ -18,7 +18,7 @@ El contenido resumido del curso es el siguiente.
 | 4   | Independencia lineal | 2 |
 | 5   | Bases y dimensión | 2 |
 | 6   | Espacios fundamentales de una matriz | 2 |
-| 7   | **Parcial 1 (25%): sesiones 1 a 5** | 2 |
+| 7   | **Parcial 1 (25%): semanas 1 a 5** | 2 |
 | 8   | Espacios fundamentales de una matriz | 2 |
 | 9   | Cambio de base | 2 |
 | 10  | Cambio de base (continuación) | 2 |
@@ -27,14 +27,14 @@ El contenido resumido del curso es el siguiente.
 | 13  | Aproximación por mínimos cuadrados | 2 |
 | 14  | Espacios con producto interno y proyecciones | 2 |
 | 15  | Definición y ejemplos de transformaciones lineales | 2 |
-| 16  | **Parcial 2 (25%): sesiones 6 a 14** | 2 |
+| 16  | **Parcial 2 (25%): semanas 6 a 14** | 2 |
 | 17  | El núcleo y la imagen | 2 |
 | 18  | Representación matricial de una transformación lineal | 2 |
 | 19  | Representación matricial de una transformación lineal (continuación) | 2 |
 | 20  | Isomorfismos | 2 |
 | 21  | Isometrías | 2 |
 | 21  | Valores y vectores propios | 2 |
-| 23  | **Parcial 3 (25%): sesiones 15 a 21** | 2 |
+| 23  | **Parcial 3 (25%): semanas 15 a 21** | 2 |
 | 24  | Valores y vectores propios | 2 |
 | 25  | Semejanza y diagonalización | 2 |
 | 26  | Aplicaciones: crecimiento poblacional y cadenas de Markov | 2 |
@@ -43,7 +43,7 @@ El contenido resumido del curso es el siguiente.
 | 29  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
 | 30  | Aplicaciones: formas cuadráticas y secciones cónicas (continuación) | 2 |
 | 31  | La forma canónica de Jordan | 2 |
-| 32  | **Parcial 4 (25%): sesiones 22 a 31** | 2 |
+| 32  | **Parcial 4 (25%): semanas 22 a 31** | 2 |
 
 ## Presentaciones
 
