@@ -69,4 +69,4 @@ En esta semana el propósito es estudiar conjuntos finitos de vectores que cuent
 
 [semana4.pdf](../main/presentaciones/semana04/semana4.pdf)
 
-Las columnas y los renglones de una matriz pueden verse como vectores de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">. Estos vectores forman conjuntos que pueden ser linealmente independientes y/o generar a <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">. En esta semana estudiamos técnicas que nos permiten obtener una base para 
+Las columnas y los renglones de una matriz pueden verse como vectores de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">. Estos vectores forman conjuntos que pueden ser linealmente independientes y/o generar a <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">. En esta semana estudiamos técnicas que nos permiten obtener bases para subespacios de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> que contienen vectores particulares.
