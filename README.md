@@ -73,6 +73,6 @@ Las columnas y los renglones de una matriz pueden verse como vectores de <img sr
 
 ### Semana 5: cambio de base
 
-[semana4.pdf](../main/presentaciones/semana05/semana5.pdf)
+[semana5.pdf](../main/presentaciones/semana05/semana5.pdf)
 
 Las columnas y los renglones de una matriz p
