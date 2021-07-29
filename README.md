@@ -81,7 +81,7 @@ Muchos problemas de la física y la ingeniería descritos en un sistema coordena
 
 [semana6.pdf](../main/presentaciones/semana06/semana6.pdf)
 
-Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren la solución de sistemas de ecuaciones lineales. Cuando cada para de vectores distintos de la base son ortogonales, dichos cálculos se reducen consderablemente. En esta semana estudiamos bases ortonormales y proyecciones ortogonales de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre subespacios. 
+Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren la solución de sistemas de ecuaciones lineales. Cuando cada par de vectores distintos de la base son ortogonales, dichos cálculos se reducen consderablemente. En esta semana estudiamos bases ortonormales y proyecciones ortogonales de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre subespacios. 
 
 ### Semana 7: mínimos cuadrados y espacios con producto interno
 
