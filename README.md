@@ -99,4 +99,4 @@ Una matriz <img src="https://render.githubusercontent.com/render/math?math=A"> d
 
 [semana9.pdf](../main/presentaciones/semana09/semana9.pdf)
 
-Toda  matriz <img src="https://render.githubusercontent.com/render/math?math=A"> de <img src="https://render.githubusercontent.com/render/math?math=m\times n"> induce una transformación lineal de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^m"> dada por <img src="https://render.githubusercontent.com/render/math?math=\mathbf{y}=T(\mathbf{x})">.
+Toda  matriz <img src="https://render.githubusercontent.com/render/math?math=A"> de <img src="https://render.githubusercontent.com/render/math?math=m\times n"> induce una transformación lineal de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^m"> dada por <img src="https://render.githubusercontent.com/render/math?math=\mathbf{y}=A(\mathbf{x})">.
