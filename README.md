@@ -63,5 +63,5 @@ La solución de sistemas de ecuaciones lineales es un tema visto en cursos previ
 
 [semana3.pdf](../main/presentaciones/semana03/semana3.pdf)
 
-En esta semana el propósito es estudiar conjuntos finitos de vectores que tienen suficientes vectores para generar el espacio, pero no tantos de manera 
+En esta semana el propósito es estudiar conjuntos finitos de vectores que tienen suficientes vectores para generar el espacio, pero no tantos de modo que uno de ellos pueda escribirse como una combinación lineal de. resto de vectores.
 
