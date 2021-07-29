@@ -93,4 +93,4 @@ El concepto de proyección ortogonal de un vector <img src="https://render.githu
 
 [semana8.pdf](../main/presentaciones/semana08/semana8.pdf)
 
-El c
+En esta semana estudiamos funciones (definidas de un espacio vectorial a otro) que preservan las operaciones de suma de vectores y multiplicación por escalar. 
