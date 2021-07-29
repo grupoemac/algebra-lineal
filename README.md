@@ -69,4 +69,4 @@ En esta semana el propósito es estudiar conjuntos finitos de vectores que cuent
 
 [semana4.pdf](../main/presentaciones/semana04/semana4.pdf)
 
-En esta semana el propósito es estudiar conjuntos finitos de vectores que cuentan con suficientes vectores para generar el espacio, pero no tantos de modo que uno 
+Las columnas y los renglones de una matriz pueden verse como vectores de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> 
