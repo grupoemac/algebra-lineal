@@ -63,7 +63,7 @@ La solución de sistemas de ecuaciones lineales es un tema visto en cursos previ
 
 [semana3.pdf](../main/presentaciones/semana03/semana3.pdf)
 
-En esta semana el propósito es estudiar conjuntos finitos de vectores que cuentan con suficientes vectores para generar el espacio, pero no tantos de modo que uno de ellos pueda escribirse como una combinación lineal del resto de vectores. A un conjunto de vectores con estas características se le denomina base para el espacio  y al número de vectores se le denomina dimensión del espacio. En esta semana estudiamos matrices de cambio de base
+En esta semana el propósito es estudiar conjuntos finitos de vectores que cuentan con suficientes vectores para generar el espacio, pero no tantos de modo que uno de ellos pueda escribirse como una combinación lineal del resto de vectores. A un conjunto de vectores con estas características se le denomina base para el espacio  y al número de vectores se le denomina dimensión del espacio. 
 
 ### Semana 4: espacios fundamentales de una matriz
 
@@ -75,4 +75,4 @@ Las columnas y los renglones de una matriz pueden verse como vectores de <img sr
 
 [semana5.pdf](../main/presentaciones/semana05/semana5.pdf)
 
-Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado, después de realizar un cambio de variables adecuado. Una base para un espacio vectorial proporciona un sistema coordenado para el espacio. 
+Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado, después de realizar un cambio de variables adecuado. Una base para un espacio vectorial proporciona un sistema coordenado para el espacio. En esta semana estudiamos matrices de cambio de base
