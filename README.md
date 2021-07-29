@@ -51,7 +51,7 @@ El contenido resumido del curso es el siguiente.
 
 [semana1.pdf](../main/presentaciones/semana01/semana1.pdf)
 
-La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> visto en cursos previos. Los ejemplos de vectores en el plano y el espacio, anteceden a las nociones abstracta de espacio vectorial y subespacio. Estas nociones son presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran tales conceptos.
+La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> visto en cursos previos. Los ejemplos de vectores en el plano y el espacio, anteceden a las nociones abstractas de espacio vectorial y subespacio. Estas nociones son presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran tales conceptos.
 
 ### Semana 2: combinación lineal, espacio generado e independencia lineal
 
