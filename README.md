@@ -23,7 +23,7 @@ El contenido resumido del curso es el siguiente.
 | 9   | Cambio de base | 2 |
 | 10  | Cambio de base (continuación) | 2 |
 | 11  | Bases ortonormales y proyecciones en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> | 2 |
-| 12  | Mínimos cuadrados y espacios con producto interno | 2 |
+| 12  | Bases ortonormales y proyecciones en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> (continuación) | 2 |
 | 13  | Aproximación por mínimos cuadrados | 2 |
 | 14  | Espacios con producto interno y proyecciones | 2 |
 | 15  | Definición y ejemplos de transformaciones lineales | 2 |
