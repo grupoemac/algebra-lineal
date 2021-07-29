@@ -81,4 +81,4 @@ Muchos problemas de la física y la ingeniería descritos en un sistema coordena
 
 [semana6.pdf](../main/presentaciones/semana06/semana6.pdf)
 
-Todo vector de un espacio vectorial con una base dada puede expresarse de manera única como combinación lineal de los vectores de la base. 
+Todo vector de un espacio vectorial de dimensión finita puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren solucionar sistemas de ecuaciones lineales. 
