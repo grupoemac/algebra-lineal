@@ -88,3 +88,9 @@ Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\
 [semana7.pdf](../main/presentaciones/semana07/semana7.pdf)
 
 El concepto de proyección ortogonal de un vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre un subespacio <img src="https://render.githubusercontent.com/render/math?math=H"> de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">, nos permite hallar el vector en <img src="https://render.githubusercontent.com/render/math?math=H"> más próximo a <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}">. Este último concepto nos permite aproximar la "solución" de un sistema inconsistente <img src="https://render.githubusercontent.com/render/math?math=A\mathbf{x}=\mathbf{b}"> que minimiza el error cuadrático medio. En esta semana estudiamos el método de mínimos cuadrados y generalizamos el concepto de ortogonalidad estudiado en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> a espacios vectoriales más generales.
+
+### Semana 8: transformaciones lineales, núcleo e imagen
+
+[semana8.pdf](../main/presentaciones/semana08/semana8.pdf)
+
+El c
