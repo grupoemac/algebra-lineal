@@ -75,4 +75,4 @@ Las columnas y los renglones de una matriz pueden verse como vectores de <img sr
 
 [semana5.pdf](../main/presentaciones/semana05/semana5.pdf)
 
-Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado. 
+Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado, después de realizar un cambio de variables adecuado. Una base para un espacio vectorial proporciona un sistema coordenado para el espacio. 
