@@ -111,5 +111,5 @@ Esta semana estudiamos un tipo particular de transformación lineal <img src="ht
 
 [semana11.pdf](../main/presentaciones/semana11/semana11.pdf)
 
-Muchos procesos iterativos o "sistemas dinámicos" se modelan por medio del producto iterado de matrices. Ejemplos de esto lo constiutyen las cadenas de Markov y los modelos de crecimiento poblacional como el de Leslie. En este contexto es muy importante comprender el comportamiento de estos sistemas a largo plazo y es así que las nociones de valor y vector propio de una matriz cobran vital importancia.
+Muchos procesos iterativos o "sistemas dinámicos" se modelan por medio del producto iterado de matrices. Ejemplos de esto lo constiutyen las cadenas de Markov y los modelos de crecimiento poblacional como el de Leslie. En este contexto es muy importante comprender el comportamiento de estos sistemas a largo plazo y para esto las nociones de valor y vector propio de una matriz cobran vital importancia.
 
