@@ -100,3 +100,16 @@ Una matriz <img src="https://render.githubusercontent.com/render/math?math=A"> d
 [semana9.pdf](../main/presentaciones/semana09/semana9.pdf)
 
 Toda  matriz <img src="https://render.githubusercontent.com/render/math?math=A"> de <img src="https://render.githubusercontent.com/render/math?math=m\times n"> induce una transformación lineal de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^m"> dada por <img src="https://render.githubusercontent.com/render/math?math=T(\mathbf{x})=A\mathbf{x}">. En este caso el núcleo de <img src="https://render.githubusercontent.com/render/math?math=T"> coincide con el núcleo de <img src="https://render.githubusercontent.com/render/math?math=A"> y la imagen de <img src="https://render.githubusercontent.com/render/math?math=T"> coincide con el espacio columna de <img src="https://render.githubusercontent.com/render/math?math=A">. Esto nos permite estudiar la transformación lineal por medio de la matriz <img src="https://render.githubusercontent.com/render/math?math=A">. Recíprocamente, cualquier transformación lineal <img src="https://render.githubusercontent.com/render/math?math=T"> definida entre espacios vectoriales de dimensión finita se puede expresar en la forma <img src="https://render.githubusercontent.com/render/math?math=T(\mathbf{x})=A\mathbf{x}">. La matriz <img src="https://render.githubusercontent.com/render/math?math=A"> en este caso depende de la elección de bases y se dice que <img src="https://render.githubusercontent.com/render/math?math=A"> representa a la transformación <img src="https://render.githubusercontent.com/render/math?math=T"> refereridas a dichas bases. Esta semana estudiamos la la representación matricial de transformaciones lineales y sus propiedades.
+
+### Semana 10: Isomorfismos e isometrías
+
+[semana10.pdf](../main/presentaciones/semana10/semana10.pdf)
+
+Esta semana estudiamos un tipo particular de transformación lineal <img src="https://render.githubusercontent.com/render/math?math=T:V\to W"> llamada isomorfismo, que establece una correspondencia biunívoca entre los elementos de <img src="https://render.githubusercontent.com/render/math?math=V"> y los elementos de <img src="https://render.githubusercontent.com/render/math?math=W">. Desde el punto de vista de las propiedades algebraicas, cuando existe un isomorfismo entre dos espacios vectoriales, tales espacios son indistinguibles y sólo se diferencian por la naturaleza de los vectores de cada espacio. La semana finaliza con el estudio de las isometrías,  transformaciones lineales que preservan las magnitudes de los vectores. 
+
+### Semana 11: Valores y vectores propios
+
+[semana11.pdf](../main/presentaciones/semana11/semana11.pdf)
+
+Muchos procesos iterativos o "sistemas dinámicos" se modelan por medio del producto iterado de matrices. Ejemplos de esto lo constiutyen las cadenas de Markov y los modelos de crecimiento poblacional como el de Leslie. En este contexto es muy importante comprender el comportamiento de estos sistemas a largo plazo y es así que las nociones de valor y vector propio de una matriz cobran vital importancia.
+
