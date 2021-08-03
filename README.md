@@ -33,7 +33,7 @@ El contenido resumido del curso es el siguiente.
 | 19  | Representación matricial de una transformación lineal (continuación) | 2 |
 | 20  | Isomorfismos | 2 |
 | 21  | Isometrías | 2 |
-| 21  | Valores y vectores propios | 2 |
+| 22  | Valores y vectores propios | 2 |
 | 23  | **Parcial 3 (25%): sesiones 15 a 21** | 2 |
 | 24  | Valores y vectores propios (continuación) | 2 |
 | 25  | Semejanza y diagonalización | 2 |
