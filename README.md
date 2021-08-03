@@ -38,11 +38,11 @@ El contenido resumido del curso es el siguiente.
 | 24  | Valores y vectores propios (continuación) | 2 |
 | 25  | Semejanza y diagonalización | 2 |
 | 26  | Aplicaciones: crecimiento poblacional y cadenas de Markov | 2 |
-| 27  | Matrices simétricas | 2 |
-| 28  | Diagonalización ortogonal | 2 |
-| 29  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
-| 30  | Aplicaciones: formas cuadráticas y secciones cónicas (continuación) | 2 |
-| 31  | La forma canónica de Jordan | 2 |
+| 27  | Diagonalización ortogonal | 2 |
+| 28  | Aplicaciones: formas cuadráticas y secciones cónicas | 2 |
+| 29  | Aplicaciones: formas cuadráticas y secciones cónicas (continuación) | 2 |
+| 30  | La forma canónica de Jordan | 2 |
+| 31  | La forma canónica de Jordan (continuación) | 2 |
 | 32  | **Parcial 4 (25%): sesiones 22 a 31** | 2 |
 
 ## Presentaciones
