@@ -51,19 +51,19 @@ El contenido resumido del curso es el siguiente.
 
 [semana1.pdf](../main/presentaciones/semana01/semana1.pdf)
 
-La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> visto en cursos previos. Los ejemplos de vectores en el plano y el espacio, anteceden a las nociones abstractas de espacio vectorial y subespacio. Estas nociones son presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran tales conceptos.
+La primera semana inicia con la presentación del curso y un repaso del tema de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> visto en cursos previos. Los ejemplos de vectores en el plano y el espacio, anteceden a las nociones abstractas de *espacio vectorial* y *subespacio*. Estas nociones son presentadas al final de la semana. La exposición incluye una lista extensa de ejemplos variados que ilustran tales conceptos.
 
 ### Semana 2: combinación lineal, espacio generado e independencia lineal
 
 [semana2.pdf](../main/presentaciones/semana02/semana2.pdf)
 
-La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos, que conduce al concepto de combinación lineal de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores llamados conjuntos generadores. El objetivo es obtener conjuntos generadores con la menor cantidad de vectores posibles. Esto conduce al concepto de independencia lineal.
+La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos, que conduce al concepto de *combinación lineal* de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores llamados *conjuntos generadores*. El objetivo es obtener conjuntos generadores con la menor cantidad de vectores posibles. Esto conduce al concepto de *independencia lineal*.
 
 ### Semana 3: bases y dimensión
 
 [semana3.pdf](../main/presentaciones/semana03/semana3.pdf)
 
-En esta semana el propósito es estudiar conjuntos finitos de vectores que cuentan con suficientes vectores para generar el espacio, pero no tantos de modo que uno de ellos pueda escribirse como una combinación lineal del resto de vectores. A un conjunto de vectores con estas características se le denomina base para el espacio  y al número de vectores en el conjunto se le denomina dimensión del espacio. 
+En esta semana el propósito es estudiar conjuntos finitos de vectores que cuentan con suficientes vectores para generar el espacio, pero no tantos de modo que uno de ellos pueda escribirse como una combinación lineal del resto de vectores. A un conjunto de vectores con estas características se le denomina *base* para el espacio  y al número de vectores en el conjunto se le denomina *dimensión* del espacio. 
 
 ### Semana 4: espacios fundamentales de una matriz
 
@@ -75,19 +75,19 @@ Las columnas y los renglones de una matriz pueden verse como vectores de <img sr
 
 [semana5.pdf](../main/presentaciones/semana05/semana5.pdf)
 
-Una base para un espacio vectorial proporciona un sistema coordenado para el espacio. Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado, después de realizar un cambio de variables adecuado. En esta semana estudiamos matrices de cambio de base.
+Una base para un espacio vectorial proporciona un sistema coordenado para el espacio. Muchos problemas de la física y la ingeniería descritos en un sistema coordenado particular, pueden se resueltos de manera más sencilla cuando se enuncian en nuevo sistema coordenado, después de realizar un cambio de variables adecuado. En esta semana estudiamos *matrices de cambio de base*.
 
 ### Semana 6: bases ortonormales y proyecciones en  <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">
 
 [semana6.pdf](../main/presentaciones/semana06/semana6.pdf)
 
-Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren la solución de sistemas de ecuaciones lineales. Cuando cada par de vectores distintos de la base son ortogonales, dichos cálculos se reducen consderablemente. En esta semana estudiamos bases ortonormales y proyecciones ortogonales de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre subespacios. 
+Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren la solución de sistemas de ecuaciones lineales. Cuando cada par de vectores distintos de la base son ortogonales, dichos cálculos se reducen consderablemente. En esta semana estudiamos *bases ortonormales* y *proyecciones ortogonales* de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre subespacios. 
 
 ### Semana 7: mínimos cuadrados y espacios con producto interno
 
 [semana7.pdf](../main/presentaciones/semana07/semana7.pdf)
 
-El concepto de *proyección ortogonal* de un vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre un subespacio <img src="https://render.githubusercontent.com/render/math?math=H"> de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">, nos permite hallar el vector en <img src="https://render.githubusercontent.com/render/math?math=H"> más próximo a <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}">. Esta idea nos proporciona un procedimiento para aproximar la "solución" de un sistema inconsistente <img src="https://render.githubusercontent.com/render/math?math=A\mathbf{x}=\mathbf{b}"> que minimiza el *error cuadrático medio*. La técnica es conocida como el *método de mínimos cuadrados* y es estudiada al inicio de la semana. Al final de la semana extendemos el concepto de *ortogonalidad* estudiado en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> a espacios vectoriales más generales.
+El concepto de proyección ortogonal de un vector <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}"> en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre un subespacio <img src="https://render.githubusercontent.com/render/math?math=H"> de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">, nos permite hallar el vector en <img src="https://render.githubusercontent.com/render/math?math=H"> *más próximo* a <img src="https://render.githubusercontent.com/render/math?math=\mathbf{v}">. Esta idea nos proporciona un procedimiento para aproximar la "solución" de un sistema inconsistente <img src="https://render.githubusercontent.com/render/math?math=A\mathbf{x}=\mathbf{b}"> que minimiza el *error cuadrático medio*. La técnica es conocida como el *método de mínimos cuadrados* y es estudiada al inicio de la semana. Al final de la semana extendemos el concepto de *ortogonalidad* estudiado en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> a espacios vectoriales más generales.
 
 ### Semana 8: transformaciones lineales, núcleo e imagen
 
