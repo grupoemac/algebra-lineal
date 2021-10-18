@@ -56,7 +56,7 @@ La primera semana inicia con la presentación del curso y un repaso del tema de 
 ### Semana 2: combinación lineal, espacio generado e independencia lineal
 
 [semana2.pdf](../main/presentaciones/semana02/semana2.pdf)
-any
+
 La solución de sistemas de ecuaciones lineales es un tema visto en cursos previos, que conduce al concepto de *combinación lineal* de vectores. Durante esta semana se explora en detalle este concepto y se utiliza para la construcción de subespacios vectoriales a partir de subconjuntos finitos de vectores llamados *conjuntos generadores*. El objetivo es obtener conjuntos generadores con la menor cantidad de vectores posibles. Esto conduce al concepto de *independencia lineal*.
 
 ### Semana 3: bases y dimensión
@@ -79,11 +79,11 @@ Una base para un espacio vectorial proporciona un sistema coordenado para el esp
 
 ### Semana 6: bases ortonormales y proyecciones en  <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n">
 
-[semana6.pdf](../main/presentaciones/semana06/semana6.pdf)any
+[semana6.pdf](../main/presentaciones/semana06/semana6.pdf)
 
 Todo vector de <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> puede expresarse de manera única como combinación lineal de los vectores de una base. Los coeficientes de estas expresiones implican cálculos dispendiosos que requieren la solución de sistemas de ecuaciones lineales. Cuando cada par de vectores distintos de la base son ortogonales, dichos cálculos se reducen consderablemente. En esta semana estudiamos *bases ortonormales* y *proyecciones ortogonales* de vectores en <img src="https://render.githubusercontent.com/render/math?math=\mathbb{R}^n"> sobre subespacios. 
 
-### Semana 7: mínimos cuadrados y espacios con producto internoany
+### Semana 7: mínimos cuadrados y espacios con producto interno
 
 [semana7.pdf](../main/presentaciones/semana07/semana7.pdf)
 
@@ -104,7 +104,7 @@ Toda  matriz <img src="https://render.githubusercontent.com/render/math?math=A">
 ### Semana 10: isomorfismos e isometrías
 
 [semana10.pdf](../main/presentaciones/semana10/semana10.pdf)
-any
+
 Esta semana estudiamos un tipo particular de transformación lineal <img src="https://render.githubusercontent.com/render/math?math=T:V\to W"> llamada *isomorfismo*, que establece una correspondencia biunívoca entre los elementos de <img src="https://render.githubusercontent.com/render/math?math=V"> y los elementos de <img src="https://render.githubusercontent.com/render/math?math=W">. Desde el punto de vista de las propiedades algebraicas, cuando existe un isomorfismo entre dos espacios vectoriales, tales espacios son indistinguibles y sólo se diferencian por la naturaleza de los vectores de cada espacio. La semana finaliza con el estudio de las *isometrías*,  transformaciones lineales que preservan las magnitudes de los vectores. 
 
 ### Semana 11: valores y vectores propios
@@ -120,11 +120,11 @@ Muchos procesos iterativos o "sistemas dinámicos" se modelan por medio del prod
 Una transformación lineal definida entre espacios vectoriales de dimensión finita puede tener diferentes reprentaciones matriciales, dependiendo de las bases elegidas. Estas matrices, a pesar de ser distintas, comparten propiedades comunes y se dice que son *semejantes*. Las matrices semejantes poseen el mismo determinante y los mismos valores propios, entre otras propiedades. Algunas de las matrices más sencillas que podemos encontrar en álgebra lineal son las *matrices diagonales*. El *problema de la diagonalización* consiste en determinar cuándo una matriz cuadrada <img src="https://render.githubusercontent.com/render/math?math=A"> es semejante a una matriz diagonal y está íntimamente ligado con el problema de la determinación de los valores y vectores propios de <img src="https://render.githubusercontent.com/render/math?math=A">, como lo veremos en la semana 12. En la semana 13 mostraremos cómo utilizar el proceso de diagonalización de una matriz para estudiar modelos poblacionales y cadenas de Markov.
 
 ### Semana 14 y 15: diagonalización ortogonal y aplicaciones
-any
+
 [semana14y15.pdf](../main/presentaciones/semana14y15/semana14y15.pdf)
 
 El problema general de la diagonalización estudiado las semanas anteriores tiene solución para las matrices simétricas. Concretamente: si <img src="https://render.githubusercontent.com/render/math?math=A"> es una matriz real <img src="https://render.githubusercontent.com/render/math?math=n\times n">, entonces <img src="https://render.githubusercontent.com/render/math?math=A"> es simétrica si y sólo si <img src="https://render.githubusercontent.com/render/math?math=A"> es diagonalizable *ortogonalmente*. Este resultado es conocido como el *teorema espectral* y es uno de los más importantes de todo el curso. En este contexto, las matrices simétricas se pueden diagonalizar de tal forma que la matriz <img src="https://render.githubusercontent.com/render/math?math=P"> que diagonaliza a <img src="https://render.githubusercontent.com/render/math?math=A"> es una matriz ortogonal. Este proceso recibe el nombre de *diagonalización ortogonal* y es el tema de estudio de la semana 14. Por otra parte, en la semana 15 estudiamos algunas aplicaciones a la geometría vectorial. La gráfica de una ecuación general de segundo grado en dos variables <img src="https://render.githubusercontent.com/render/math?math=x"> y <img src="https://render.githubusercontent.com/render/math?math=y">, corresponde en muchos casos a una sección cónica. Cuando la ecuación no tiene el producto cruzado <img src="https://render.githubusercontent.com/render/math?math=xy">, los ejes de simetría de la cónica son paralelos a los ejes coordenados, lo que hace que sea fácil su análisis. En cambio, cuando el término cruzado <img src="https://render.githubusercontent.com/render/math?math=xy"> aparece en la ecuación, la gráfica es una sección cónica que ha sido rotada desde su posición canónica. El proceso de diagonalización ortogonal nos permite encontrar una rotación de ejes por medio de la cual es posible eliminar el término cruzado <img src="https://render.githubusercontent.com/render/math?math=xy"> de una cónica, simplificando así su análisis.
-any
+
 ### Semana 16: forma canónica de Jordan
 
 [semana16.pdf](../main/presentaciones/semana16/semana16.pdf)
